@@ -1,4 +1,4 @@
-# **"Image Stiching - Implemented Algorithm from scratch (without OpenCV)"**
+# **"Image Stitching - Implemented Algorithm from scratch (without OpenCV)"**
 
 ## The task is to stitch two given images, left.jpg and right.jpg to construct a panorama image.
 
@@ -10,7 +10,7 @@
 * Implementing Ransac Algorithm to remove outliers and get best homography matrix
 * Stitching Image using best homography matrix
 
-Please find more about them implementation [here]
+Please find more about them implementation [here](https://github.com/AkashSDE/ImageStitching/blob/dcae41f50202eab68e246a2219c4a18ba761ef4d/Report/ProjectReport.pdf)
 
 ### Steps to run the code
 
